@@ -102,31 +102,6 @@ My recent industry capstone project, **MaintAI**, involved developing an AI-powe
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DeepthiBlakshmipathi&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepthiBlakshmipathi&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=DeepthiBlakshmipathi&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepthiBlakshmipathi&theme=github-dark"/>
-</p>
-
----
-
 ## What I'm Currently Learning
 
 * Large Language Models (LLMs)
